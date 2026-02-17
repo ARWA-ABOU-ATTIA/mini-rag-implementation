@@ -83,7 +83,7 @@ Once the containers are running, you can access the services:
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 The project follows a clean structure to ensure scalability:
 
