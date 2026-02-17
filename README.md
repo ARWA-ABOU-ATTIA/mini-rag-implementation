@@ -4,7 +4,7 @@ This project is a comprehensive implementation of the **"Mini-RAG"** course by *
 
 The goal of this project is to move beyond simple Jupyter Notebooks and build a **production-ready Retrieval-Augmented Generation (RAG) application** using software engineering best practices. It covers the full pipeline from file uploading to generating answers based on documents.
 
-**Course Source:** [Abu Bakr Soliman YouTube Channel]
+**Course Source:** [Abu Bakr Soliman YouTube Channel](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=wqVFEQMAtSo_sQHX)
 
 ---
 
